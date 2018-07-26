@@ -39,7 +39,7 @@
     "graphql-tag": "2.9.2",
     "js-sha256": "0.9.0",
     "subscriptions-transport-ws": "0.9.12",
-    "ws": "5.2.2",
+    "ws": "6.0.0",
     "yup": "0.26.0"
   },
   "typings": "dist/index.d.ts",
